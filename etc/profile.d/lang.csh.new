@@ -1,0 +1,5 @@
+#!/bin/csh
+
+setenv LANG ru_RU.utf8
+setenv LC_NUMERIC C
+setenv LC_COLLATE C

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+export LANG=ru_RU.utf8
+export LC_NUMERIC=C
+export LC_COLLATE=C

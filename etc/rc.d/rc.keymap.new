@@ -1,0 +1,5 @@
+#!/bin/sh
+
+if [ -x /usr/bin/loadkeys ]; then
+    /usr/bin/loadkeys /usr/share/kbd/keymaps/i386/qwerty/ru-utf2.map.gz
+fi
