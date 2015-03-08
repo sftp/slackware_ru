@@ -10,6 +10,7 @@ config() {
     # Otherwise, we leave the .new copy for the admin to consider...
 }
 
+config etc/man.conf.new
 config etc/X11/xorg.conf.d/90-keyboard-layout.conf.new
 config etc/profile.d/lang.csh.new
 config etc/profile.d/lang.sh.new
